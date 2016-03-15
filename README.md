@@ -1,2 +1,0 @@
-# myjem
-practice sayeed js
